@@ -1,2 +1,3 @@
 # project-tcc
-Projeto de TCC, Graduação em Análise e Desenvolvimento de Sistemas, Universidade Luterana do Brasil
+ARFinder - Sistema de recomendação de artigos científicos. 
+Um TCC do curso de graduação em Análise e Desenvolvimento de Sistemas da Universidade Luterana do Brasil.
