@@ -1,0 +1,27 @@
+{
+  "path": "/objeto1",
+  "objeto1": {
+    "type": "Paper",
+    "match" : {
+      "NormalizedTitle": "sobek"
+    },
+    "select": [
+      "OriginalTitle",
+      "NormalizedTitle",
+      "DOI",
+      "OriginalVenue",
+      "NormalizedVenue",
+      "Keywords",
+      "PublishYear",
+      "PublishDate",
+      "CitationCount",
+      "ConferenceSeriesID",
+      "JournalID",
+      "AuthorsIDs",
+      "AffiliationIDs",
+      "AuthorSequenceNumbers",
+      "FieldOfStudyIDs",
+      "CitationIDs"
+    ]
+  }
+}

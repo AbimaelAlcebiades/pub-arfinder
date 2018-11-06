@@ -1,0 +1,40 @@
+-c -> define o Número médio de termos;
+-m -> define a frequencia mínima para um termo ser relacionado
+-f -> lê de um arquivo (.txt ou .pdf)
+-o -> define o número mínimo de ocorrencias para um termo ser relacionado
+-w -> adiciona um arquivo com stop words (para mais detalhes, enviar e-mail)
+-s -> salva em um arquivo a saída (não tenho certeza que funciona)
+-l -> seleciona o idioma: 1 para portugues, 2 para ingles
+-tree -> Remove todos os elementos de uma classe gramatical. São as possibilidades:
+
+removeTodosTagsPt;
+tagVebos;
+tagSubs;
+tagAdje;
+agAdverbio;
+tagDeterminante;
+tagCardinal;
+tagPronome;
+tagPreposicao;
+tagInterjeicao;
+tagVirg;
+tagSent;
+tagPrepDet;
+tagVP;  
+
+Opções de saída:
+
+-b -> saída apenas com os termos, sem relações ou informações.
+-x -> saída no formato de XML, com todas as informações extraídas
+-n -> saída no modelo "Termo;frequência"
+
+O último parametro (que deve sempre ser adicionado) é -t. 
+Se o Sobek for ler um arquivo, então basta colocar -t e nada depois.
+Se fores passar um texto para ele minerar, coloque o texto depois do -t.
+
+Exemplos:
+Saída em XML, língua portuguesa, mineração realizada a partir do arquivo arquivo.txt.
+" -l 1 -f arquivo.txt -t "
+
+Saída apenas com conceitos, mineração realizada a partir de um texto
+"-b  -t texto texto texto texto..."

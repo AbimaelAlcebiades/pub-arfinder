@@ -1,0 +1,7 @@
+{
+    "engineReferenceFinder" : "ARFinder\\Engines\\AcademicSearchApi\\Integrator",
+    "cacheDirectory" : "",
+    "enableSystemCache" : false,
+    "cacheTime" : "15 minutes",
+    "numberReferencesDisplayed" : "3"
+}

@@ -1,0 +1,45 @@
+         Title Integrando tecnologias digitais na Educação de Jovens e Adultos: análise de publicações no Brasil
+           URL http://www.br-ie.org/pub/index.php/wie/article/view/5090
+          Year 2015
+     Citations 1
+      Versions 4
+    Cluster ID 13580345247116844628
+Citations list http://scholar.google.com/scholar?cites=13580345247116844628&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=13580345247116844628&hl=en&as_sdt=0,5
+       Excerpt ... Este software é gratuito, executável com diferentes sistemas operacionais tais como Mac, Linuxe Windows, e o seu download pode ser feito no http://sobek.ufrgs.br. ... Acesso: Outubro 2014. viiSobek disponível em:< http://sobek.ufrgs.br/>. Acesso em: Outubro 2014. ...
+
+         Title Explorando a interação ea colaboração no ensino fundamental usando uma ferramenta Wiki: um estudo de caso em Farroupilha–RS
+           URL http://www.seer.ufrgs.br/renote/article/view/50281
+          Year 2014
+     Citations 1
+      Versions 2
+    Cluster ID 386506202223757566
+Citations list http://scholar.google.com/scholar?cites=386506202223757566&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=386506202223757566&hl=en&as_sdt=0,5
+       Excerpt ... http://www.wordcounter.com>. Acesso em: julho 2014. ix Disponível em: <http://sobek.ufrgs.br/sobek.html>. Acesso em: julho 2014. julho, 2014_____
+
+         Title Um estudo sobre erros em programação-Reconhecendo as dificuldades de programadores iniciantes.
+           URL http://br-ie.org/pub/index.php/wcbie/article/view/6317
+          Year 2015
+     Citations 1
+      Versions 5
+    Cluster ID 14843908282785078966
+Citations list http://scholar.google.com/scholar?cites=14843908282785078966&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=14843908282785078966&hl=en&as_sdt=0,5
+       Excerpt ... erros. O Gráfico 1 apresenta a incidência para o conceito error, no qual é denotadocomo erro mais comum a falta de tokens como parênteses ou chaves, o qualcorresponde 1 Disponível em: http://sobek.ufrgs.br/index.htm 1403 ...
+
+         Title UMA FERRAMENTA PARA AUXÍLIO AO PROFESSOR NA IDENTIFICAÇÃO DE DIFICULDADES NA PRÁTICA DE PROGRAMAÇÃO
+           URL http://publicase.unipampa.edu.br/index.php/siepe/article/view/15711
+          Year 2016
+     Citations 0
+      Versions 2
+ Versions list http://scholar.google.com/scholar?cluster=16677503712764364631&hl=en&as_sdt=0,5
+       Excerpt ... durante o experimento, adotou-se o Sobek, um software de mineração de dados, utilizado paraidentificar conceitos/termos mais relevantes em um determinado texto, a partir da análise defrequência destes, no material textual, que está disponível em sobek.ufrgs.br/index.htm ...
+
+         Title Empregando grafos de imagens para apoio à aprendizagem em ciências
+           URL http://www.tise.cl/volumen8/TISE2012/62.pdf
+     Citations 0
+      Versions 0
+      PDF link http://www.tise.cl/volumen8/TISE2012/62.pdf
+       Excerpt ... relações entre eles. Em sua versão atual (disponível em http://sobek.ufrgs.br) aferramenta traz uma função que a torna especialmente interessante para estapesquisa, dentro da perspectiva acima mencionada. O aplicativo ...
+

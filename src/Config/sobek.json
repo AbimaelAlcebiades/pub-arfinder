@@ -1,0 +1,33 @@
+{
+	"urlSobekWebService" : "http://sobek.ufrgs.br/webservice/sobek.php",
+	"input" : {
+		"averageNumbersTerms" : 5,
+		"minFrequencyTerms" : 3,
+		"readFromFile" : false,
+		"minNumberOccurrenceValidTerm" : 1,
+		"fileStopWords" : false,
+		"saveFileOutp" : false,
+		"language" : 1,
+		"removeGramaticalClass" : [
+			"removeTodosTagsPt",
+			"tagVebos",
+			"tagSubs",
+			"tagAdje",
+			"tagAdverbio",
+			"tagDeterminante",
+			"tagCardinal",
+			"tagPronome",
+			"tagPreposicao",
+			"tagInterjeicao",
+			"tagVirg",
+			"tagSent",
+			"tagPrepDet",
+			"tagVP"
+		]
+	},
+	"output" : {
+		"justTerms" : false,
+		"xml" : true,
+		"termFrequency" : false
+	}
+}

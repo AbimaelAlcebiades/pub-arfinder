@@ -1,0 +1,21 @@
+{
+  "cognitiveServices" : {
+    "apiKey" : "ENTER_YOUT_API_KEY"
+  },
+  "graphSearch" : {
+    "apiUrl"      : "https://westus.api.cognitive.microsoft.com/academic/v1.0/graph/search",
+    "mode"        : "json",
+    "contentType" : "application/json"
+  },
+  "evaluate" : {
+    "apiUrl": "https://westus.api.cognitive.microsoft.com/academic/v1.0/evaluate",
+    "contentType": "application/x-www-form-urlencoded",
+    "count" : 10,
+    "miliSecondstimeout" : 20000
+  },
+  "similarity": {
+    "apiUrl": "https://westus.api.cognitive.microsoft.com/academic/v1.0/similarity",
+    "contentType": "application/x-www-form-urlencoded",
+    "miliSecondstimeout": 20000
+  }
+}

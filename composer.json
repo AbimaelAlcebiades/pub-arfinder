@@ -1,0 +1,29 @@
+{
+    "name": "abimael/ARFinder",
+    "description": "Buscador automatizado de referencias cientificas",
+    "keywords": ["abimael", "alcebiades", "referencias cientificas"],
+    "type": "project",
+    "license": "MIT",
+    "require-dev": {
+        "components/jquery": "*",
+        "phpunit/phpunit": "*",
+        "twbs/bootstrap": "*",
+        "tinymce/tinymce": "*"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "ARFinder\\": [
+                "src/",
+                "tests/"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Abimael Alcebiades",
+            "email": "abimaelafsilva@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}

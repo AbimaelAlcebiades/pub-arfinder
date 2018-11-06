@@ -1,0 +1,53 @@
+// JSON mais simples possível.
+{
+    "path": "/node1",
+    "node1": {
+        "type": "Paper",
+        "match": {"NormalizedTitle": "sobek"},
+        "select": [
+            "OriginalTitle"
+        ]
+    }
+}
+
+// JSON com "Paper" e "Author".
+{
+    "path" : "/paper/AuthorIDs/author",
+    "paper" : {
+        "type" : "Paper",
+        "match": {
+            "NormalizedTitle": "sobek"
+        },
+        "select": [
+            "OriginalTitle",
+            "NormalizedTitle",
+            "CitationIDs",
+            "ReferenceIDs",
+            "FieldOfStudyIDs",
+            "Keywords",
+            "AffiliationIDs",
+            "AuthorIDs",
+            "JournalID",
+            "PublishDate",
+            "PublishYear"
+        ]
+    },
+    "author" : {
+        "type" : "Author",
+        "select" : [ "Name" ]
+    }
+}
+
+{
+  "path": "/author/PaperIDs/paper",
+  "author": {
+    "type": "Author",
+    "select": [ "DisplayAuthorName" ],
+    "match": { "Name": "leslie lamport" }
+  },
+  "paper": {
+    "type": "Paper",
+    "select": [ "OriginalTitle", "CitationCount" ],
+    "return": { "CitationCount": { "gt": 100 } }
+  }
+}
